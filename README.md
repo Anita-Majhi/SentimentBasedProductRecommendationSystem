@@ -9,7 +9,7 @@
 ![Forks](https://img.shields.io/github/forks/HelloShibani/Sentiment-Based-Product-Recommendation-Analysis-Revision?style=social)
 ![Stars](https://img.shields.io/github/stars/HelloShibani/Sentiment-Based-Product-Recommendation-Analysis-Revision?style=social)
 
-Combining **NLP + Collaborative Filtering** to generate smarter, sentiment-driven product recommendations based on real user reviews.
+Combining **NLP + Collaborative Filtering** to generate smarter, sentiment-driven product recommendations.
 
 ---
 
@@ -85,20 +85,3 @@ jupyter notebook SentimentBasedProductRecommendationSystem.ipynb
 - [ ] Add evaluation dashboard for user segments
 
 ---
-
-## 🛣 Roadmap
-
-See [GitHub Projects tab](https://github.com/HelloShibani/Sentiment-Based-Product-Recommendation-Analysis-Revision/projects) for open milestones.
-
----
-
-## 📢 Citation
-
-> Roychoudhury, S. "Sentiment-Based Product Recommendation System – NLP + CF", 2025.
-
----
-
-## 🤝 Let’s Collaborate
-
-Suggestions, forks, and contributions welcome!  
-Connect on [LinkedIn](https://www.linkedin.com/in/your-link) 🚀
