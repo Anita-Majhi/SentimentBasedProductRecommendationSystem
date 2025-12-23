@@ -1,4 +1,4 @@
-# 🎯 Sentiment-Based Product Recommendation System (Revised)
+# 🎯 Sentiment-Based Product Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-orange?logo=jupyter)
