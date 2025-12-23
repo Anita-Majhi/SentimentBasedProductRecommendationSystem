@@ -50,14 +50,14 @@ This project enhances traditional recommender systems by integrating **sentiment
 
 ```bash
 # Step 1: Clone repo
-git clone https://github.com/HelloShibani/Sentiment-Based-Product-Recommendation-Analysis-Revision.git
-cd Sentiment-Based-Product-Recommendation-Analysis-Revision
+git clone https://github.com/Anita-Majhi/SentimentBasedProductRecommendationSystem.git
+cd SentimentBasedProductRecommendationSystem
 
 # Step 2: Install dependencies
 pip install -r requirements.txt
 
 # Step 3: Run the notebook
-jupyter notebook Sentiment+Enhanced+Product+Recommendation+System+for+Ebuss.ipynb
+jupyter notebook SentimentBasedProductRecommendationSystem.ipynb
 ```
 
 ---
